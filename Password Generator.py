@@ -33,7 +33,7 @@ def gen_password():
         pass_result = pass_result.replace("'", "")
         pass_result = pass_result.replace(" ", "")
 
-        showinfo('Your Password', str(pass_result))
+        showinfo('Your Password', pass_result)
     except Exception as error:
         showinfo('Error', error)
 
