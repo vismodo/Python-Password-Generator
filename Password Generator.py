@@ -17,11 +17,9 @@ def gen_password():
     try:
         pass_len = int(length.get())
         result = []
-        x = 0
         if (opt.get() == 1):
             while (not any(item in more for item in result)) or (not any(item in letters for item in result)):
                 result = []
-                x = 0
                 for x in range(pass_len):
                     result.append(r.choice(letters+more))
         else:
