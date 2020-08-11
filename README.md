@@ -19,7 +19,12 @@ If you already know a little tkinter but don't know what to do, Here are a few t
 
 2. Open ['Password Generator.py'](https://github.com/VismayaAtreya/Python-Password-Generator/blob/master/Password%20Generator.py) in [IDLE](https://docs.python.org/3/library/idle.html)
 
+![openwith](https://github.com/VismayaAtreya/Python-Password-Generator/blob/master/User%20Guide%20Images/openwith.png)
+
 3. Click on **Run -> Run Module** and wait for a tkinter window to pop up.
+
+
+![runmod](https://github.com/VismayaAtreya/Python-Password-Generator/blob/master/User%20Guide%20Images/runmod.png)
 
 4. Use the spinbox to select how long your password should be and click on the checkbox to include numbers and special characters.
 
