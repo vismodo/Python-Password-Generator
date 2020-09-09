@@ -1,5 +1,5 @@
 # Python Password Generator
-If you already know a little tkinter but don't know what to do, Here are a few tutorials which include tkinter.
+If you already know a little tkinter but don't know what to do with it, Here is a tutorial!
 
 ## Check the Page [Wiki](https://github.com/VismayaAtreya/Make-a-Password-Generator/wiki) for the tutorial
 
